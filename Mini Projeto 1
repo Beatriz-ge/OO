@@ -1,0 +1,55 @@
+Classe FormaGeometrica:
+    Atributo privado: _tipo (string)
+    Método: calcularArea()
+    Método de acesso: getTipo()
+
+Classe Circulo herda FormaGeometrica:
+    Atributo privado: _raio (float)
+    Método: calcularArea()
+    Método de acesso: getRaio()
+
+Classe Quadrado herda FormaGeometrica:
+    Atributo privado: _lado (float)
+    Método: calcularArea()
+    Método de acesso: getLado()
+
+Classe Triangulo herda FormaGeometrica:
+    Atributos privados: _base (float), _altura (float)
+    Método: calcularArea()
+    Métodos de acesso: getBase(), getAltura()
+
+Função principal:
+    Criar uma lista vazia chamada 'formas'
+
+    Criar objetos para representar um círculo, quadrado e triângulo com medidas proporcionais definidas, usando os métodos de acesso.
+
+    Adicionar os objetos à lista 'formas'
+
+    Enquanto verdadeiro:
+        Exibir menu de opções:
+        1. As medidas de todos os elementos
+        2. O elemento de maior área
+        3. O elemento de menor área
+        4. A quantidade de lados de cada elemento
+        5. Encerrar o programa
+
+        Ler a opção do usuário
+
+        Se opcao == 1:
+            Para cada forma na lista 'formas':
+                Exibir o tipo da forma e suas medidas usando os métodos de acesso
+
+        Se opcao == 2:
+            Encontrar o elemento com a maior área na lista 'formas' e exibir seu tipo usando os métodos de acesso
+
+        Se opcao == 3:
+            Encontrar o elemento com a menor área na lista 'formas' e exibir seu tipo usando os métodos de acesso
+
+        Se opcao == 4:
+            Para cada forma na lista 'formas':
+                Se a forma for um círculo, exibir "Círculo - 0 lados"
+                Se a forma for um quadrado, exibir "Quadrado - 4 lados"
+                Se a forma for um triângulo, exibir "Triângulo - 3 lados"
+
+        Se opcao == 5:
+            Encerrar o programa
