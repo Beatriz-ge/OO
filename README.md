@@ -1,3 +1,4 @@
+# Workplace
 **Orientação a Objetos**  
 Bem-vindo ao repositório de projetos da disciplina de Orientação a Objetos da minha faculdade. Neste repositório, você encontrará todos os projetos relacionados a esta disciplina, onde estarei armazenando meu trabalho e projetos desenvolvidos ao longo do curso.
 
@@ -13,9 +14,6 @@ Dentro de cada diretório de projeto, você encontrará mais informações sobre
 
 **Contribuições**  
 Se você deseja contribuir com melhorias nos projetos existentes ou adicionar seus próprios projetos relacionados à disciplina de Orientação a Objetos, fique à vontade para fazer um fork deste repositório e enviar um pull request com suas alterações. Estou aberto a colaborações!
-
-**Licença**   
-Este repositório está licenciado sob a MIT License, o que significa que você é livre para usar, modificar e distribuir o código, desde que inclua a atribuição adequada. Certifique-se de ler a licença completa antes de usar este código em seus próprios projetos.
 
 **Contato**  
 Se você tiver alguma dúvida ou quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para beageane@gmail.com.
