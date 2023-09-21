@@ -5,7 +5,7 @@ Bem-vindo ao repositório de projetos da disciplina de Orientação a Objetos da
 **Estrutura do Repositório**   
 Este repositório está organizado da seguinte maneira:
 - Mini Projeto 1: esse primeiro mini projeto será voltado para criação de um pseudocódigo sobre um universo de formas geométricas bidimensionais interativo e o diagrama UML desse pseudocódigo.
-- Mini Projeto2: 
+- Mini Projeto2: o segundo mini projeto é a execução do pseudocódigo na linguagem Python, de acordo com os conceitos de linguagem oriantada a objeto aprendidos em sala.
 - Mini Projeto3:
 - Projeto 1:
 - Full Stack:
