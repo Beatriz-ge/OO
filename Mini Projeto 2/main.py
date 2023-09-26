@@ -1,6 +1,8 @@
+"""O importa usa as classes definidas em formas.py"""
 from formas import Circulo, Quadrado, Triangulo
 
 def main():
+    """Função principal do código"""
     formas = []
 
     circulo = Circulo(5.0)
@@ -21,24 +23,24 @@ def main():
 
         if opcao == 1:
             for forma in formas:
-                print(f"Tipo: {forma.getTipo()}, Área: {forma.calcularArea()}")
+                print(f"Tipo: {forma.get_tipo()}, Área: {forma.calcular_area()}")
 
         elif opcao == 2:
-            maior_area = max(formas, key=lambda forma: forma.calcularArea())
-            print(f"Elemento de maior área: {maior_area.getTipo()}")
+            maior_area = max(formas, key=lambda forma: forma.calcular_area())
+            print(f"Elemento de maior área: {maior_area.get_tipo()}")
 
         elif opcao == 3:
-            menor_area = min(formas, key=lambda forma: forma.calcularArea())
-            print(f"Elemento de menor área: {menor_area.getTipo()}")
+            menor_area = min(formas, key=lambda forma: forma.calcular_area())
+            print(f"Elemento de menor área: {menor_area.get_tipo()}")
 
         elif opcao == 4:
             for forma in formas:
                 if isinstance(forma, Circulo):
-                    print(f"Círculo - 0 lados")
+                    print("Círculo - 0 lados")
                 elif isinstance(forma, Quadrado):
-                    print(f"Quadrado - 4 lados")
+                    print("Quadrado - 4 lados")
                 elif isinstance(forma, Triangulo):
-                    print(f"Triângulo - 3 lados")
+                    print("Triângulo - 3 lados")
 
         elif opcao == 5:
             break
