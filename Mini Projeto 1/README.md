@@ -1,4 +1,4 @@
-# **DESCRIÇÃO DO MINIPROJETO 1 (PSEUDOCÓDIGO)**
+# **PSEUDOCÓDIGO**
 
 Este pseudocódigo implementa um sistema para interação do usuário com 3 objetos de formas bidimensionais, sendo eles: círculo, quadrado e triângulo. O código utiliza conceitos de classes, herança e encapsulamento aprendidos em sala de aula. Ou seja, o objetivo do pseudocódigo é ser orientado a objeto.
 
