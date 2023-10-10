@@ -31,4 +31,3 @@ A POO é uma metodologia de programação que se baseia na criação de objetos 
 
 **- Polimorfismo:** O polimorfismo permite que objetos de diferentes classes sejam tratados de maneira uniforme, desde que compartilhem uma interface comum. No projeto, o polimorfismo é aplicado ao encontrar a forma com a maior e a menor área. Usamos a função `max()` e `min()` com uma função lambda que chama o método `calcular_area()` de cada forma geométrica. Isso demonstra como objetos de diferentes classes podem ser comparados e manipulados de forma polimórfica.
 
-Este projeto é um exemplo prático de como a programação orientada a objetos pode ser usada para modelar entidades do mundo real, promovendo a reutilização de código, a organização estruturada e a flexibilidade no tratamento de diferentes tipos de objetos.
