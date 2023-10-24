@@ -1,7 +1,7 @@
 # Diagramas UML
 
-## Puzzle+
-O jogo proposto é um quebra-cabeça numérico desafiador que coloca os jogadores contra o relógio. Os jogadores têm a tarefa de organizar números em uma grade de acordo com a ordem selecionada por eles. O jogo oferece opções de dificuldade, modos de jogo personalizáveis (sequência geométrica, números primos, sequência de Fibonacci) e registra o tempo mínimo necessário para resolver o quebra-cabeça.
+## Snake+
+Snake+ é um clássico jogo de arcade em que o jogador controla uma cobra em constante crescimento. O objetivo é coletar objetos (geralmente representados por pontos) espalhados pelo cenário, enquanto evitam colidir com as paredes ou com o próprio corpo da serpente. O desafio aumenta à medida que a cobra cresce, tornando necessário um equilíbrio entre a busca por comida e a manutenção do espaço para manobra. O jogo geralmente fica mais rápido e desafiador à medida que o jogador progride, testando seus reflexos e habilidades estratégicas.
 
 ## Conteúdo da Pasta
 A pasta `Mini Projeto 3` contém os seguintes documentos:
