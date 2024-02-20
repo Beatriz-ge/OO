@@ -8,7 +8,6 @@ Este repositório está organizado da seguinte maneira:
 - Mini Projeto2: o segundo mini projeto é a execução do pseudocódigo na linguagem Python, de acordo com os conceitos de linguagem oriantada a objeto aprendidos em sala.
 - Mini Projeto3: o terceiro mini projeto é a implementação dos diagramas necessários para composição de um jogo.
 - Projeto 1: o projeto 1 é a implementação do jogo que foi planejado no mini projeto 3.
-- Full Stack:
 
 Dentro de cada diretório de projeto, você encontrará mais informações sobre o projeto específico, incluindo detalhes sobre o que foi desenvolvido.
 
